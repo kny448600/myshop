@@ -157,8 +157,8 @@ export default function Signup() {
                     fullWidth
                 >Continued</Button>
                 {/* <div style={{ marginTop: "20px" }}>
-                    <p className={highlightInfo ? styles.highlight : ""}>학번: 2514</p>
-                    <p className={highlightInfo ? styles.highlight : ""}>이름: 장병준</p>
+                    <p className={highlightInfo ? styles.highlight : ""}>학번: 2518</p>
+                    <p className={highlightInfo ? styles.highlight : ""}>이름: 하상현</p>
                 </div> */}
             </div>
         </>
